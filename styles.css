@@ -54,6 +54,12 @@ section {
     margin-bottom: 1rem;
 }
 
+.project img {
+    width: 200px; /* Set the desired width */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 5px;
+}
+
 form {
     display: flex;
     flex-direction: column;
